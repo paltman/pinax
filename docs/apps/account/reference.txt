@@ -336,14 +336,6 @@ Modules
    :undoc-members:
 
 
-``pinax.apps.account.openid_consumer``
---------------------------------------
-
-.. automodule:: pinax.apps.account.openid_consumer
-   :members:
-   :undoc-members:
-
-
 ``pinax.apps.account.signals``
 ------------------------------
 
