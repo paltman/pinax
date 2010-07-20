@@ -35,7 +35,7 @@ Add ``pinax.apps.threadedcomments_extras`` to your ``INSTALLED_APPS``:
     ]
 
 
-.. _ref-autocomplete_app-gettingstarted-usage:
+.. _ref-threadedcomments_extras-gettingstarted-usage:
 
 Usage
 =====
