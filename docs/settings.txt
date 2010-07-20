@@ -104,7 +104,7 @@ FEEDUTIL_SUMMARY_LEN
 Number of characters used for summary-attributes in feeds.
 
 
-.. _ref-settings-force-lowercase-tags
+.. _ref-settings-force-lowercase-tags:
 
 FORCE_LOWERCASE_TAGS
 --------------------
@@ -128,7 +128,7 @@ name of a named URL as redirection target. If it is not set,
 ``LOGIN_REDIRECT_URL`` will get used instead.
 
 
-.. _ref-settings-notification-language-module
+.. _ref-settings-notification-language-module:
 
 NOTIFICATION_LANGUAGE_MODULE
 ----------------------------
